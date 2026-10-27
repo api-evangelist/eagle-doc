@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Eagle Doc is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://eagle-doc.com/
+Eagle Doc provides AI-powered Document OCR and bookkeeping automation APIs. Their platform extracts structured data from invoices, receipts, bank statements and other documents, offering high‑accuracy extraction (95%+), a developer dashboard, and integration with DATEV for tax firms. Services include Document AI, OCR APIs, and a bookkeeping solution for businesses and freelancers.
+
+**Areas:** Company · AI · OCR · Bookkeeping · Document-Processing · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://eagle-doc.com/)
+- [Documentation](https://www.eagle-doc.com/en/documentation/)
+- [Pricing](https://www.eagle-doc.com/en/pricing/)
+- [Support](https://www.eagle-doc.com/en/contact/)
+- [GitHub](https://github.com/S2Tec)
+- [Status](https://status.eagle-doc.com/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/eagle-doc/](https://apis.io/providers/eagle-doc/).
